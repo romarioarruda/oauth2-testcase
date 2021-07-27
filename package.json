@@ -9,6 +9,7 @@
   "author": "romario",
   "license": "MIT",
   "dependencies": {
+    "consign": "^0.1.6",
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
