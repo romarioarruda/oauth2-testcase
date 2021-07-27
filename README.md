@@ -8,3 +8,7 @@
 ```
 $ npm i && npm start
 ```
+
+**Open app**:
+
+`http://localhost:3000`
